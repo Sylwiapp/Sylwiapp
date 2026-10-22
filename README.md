@@ -1,4 +1,4 @@
-# Sylwia Puzio
+# Sylwia 
 I build small web products and tools for looking at psychophysiological signals.
 ## Selected work
 - [mamy wioskę](https://github.com/Sylwiapp/mamy-wioske) — a phone-first app for a local parent community. FastAPI, live on Render. Profiles show age band and distance, not a child's name or a home address.
